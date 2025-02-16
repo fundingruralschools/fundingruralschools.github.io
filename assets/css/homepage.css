@@ -1,0 +1,21 @@
+.problem-purpcont{
+    padding-top: 5rem
+}
+
+.placeholdermap{
+    float:left;
+    width: 50%;
+    padding-left: 3rem;
+    padding-right: 5rem;
+}
+
+.pagetitle{
+    display: block;
+    block-size: 35rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    padding-top: 5rem;
+    padding-right: 4rem;
+    text-align:center;
+}
