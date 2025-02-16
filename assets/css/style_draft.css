@@ -18,44 +18,26 @@ a{
 /*navbar styling*/
 
 .navbar{
-    display: flex;
+    display: block;
     height: 5rem;
-    /*justify-content defines how browser dist. space bet/around content; 
-    space-between distributes items evenly along alignment container*/
     justify-content: space-between;
     align-items: center;
     padding-top: 1rem;
     border-bottom: 2px solid rgb(223, 251, 219);
 }
 
-/* logo style (not sure if this will be used or not)*/
-.logo img{
-    width: 4rem;
-    height: 4rem;
-    margin-left: 1rem;
-}
-
-.hamburger-menu{
-    padding-right: 1.5rem;
-    cursor: pointer;
-}
-
-.hamburger-menu .line{
-    display: block;
-    width: 2.5rem;
-    height: 2 px;
-    margin-bottom: 10px;
-    background-color: black;
-    cursor: pointer;
+.website-name{
+    text-align: center;
 }
 
 .nav-menu{
-    position: fixed;
-    width: 94%;
+    position:fixed;
     top: 6rem;
     left: 18px;
     background-color: rgb(84, 170, 105);
     font-weight: 600;
+    text-align:center;
+    display:inline-flex;
 }
 .nav-menu a{
     display: block;
@@ -66,8 +48,12 @@ a{
     background-color: rgb(223, 251, 219);
 }
 
+.website-name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .hide{
-    display: none;
+    display: inline-block;
 }
 
 /*for Desktop view, investigate error on screen */
