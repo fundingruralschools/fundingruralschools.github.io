@@ -1,0 +1,53 @@
+.title{
+margin-top: 5rem;
+text-align: center;
+color: rgb(255, 255, 255);
+font-size: 1.25rem;
+font-weight: bold;
+}
+
+.subtitle{
+    margin-top: 1.5rem;
+    text-align: center;
+    color: rgb(214, 201, 240);
+    font-size: 2rem;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+
+.mapimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.aboutustitle{
+    text-align: left;
+    margin-left: 5rem; 
+    margin-right: 5rem;
+    margin-top: 5rem;
+    font-weight: 100;
+    font-size: 1.5rem;
+    color: rgb(214, 201, 240);
+}
+
+.aboutuscontent{
+    text-align: right;
+    display: block;
+    margin-right: 5rem; 
+    margin-top: 2rem;
+    box-sizing: content-box;
+    width: 50%;
+    font-weight: 100;
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    float: right;
+}
+
+.stanfordlogo{
+    display: block;
+    align-items: center;
+    float: left;
+    margin-left: 10rem;
+}
