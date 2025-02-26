@@ -11,6 +11,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style_draft.css">
     <link rel="stylesheet" href="assets/css/homepage.css">
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0"></script>
 </head>
 
 <body>
@@ -28,11 +31,7 @@
         </nav>
     </header>
     <div class="problem-purpcont">
-        <div class="placeholdermap">
-            <a>
-                <img src="assets/img/placeholdermap.png" style="height: 30rem;">
-            </a>
-        </div>
+        <div id="map"></div>
         <div class="pagetitle">
             <h1>Rural schools scour for funding</h1>
             <p style="font-size: 1rem;padding-top: 0.5rem;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
@@ -47,6 +46,7 @@
             </p>
         </div>
     </div>
+    <script src="assets/js/map.js"></script>
 </body>
 
 </html>
