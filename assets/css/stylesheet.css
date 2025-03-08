@@ -63,7 +63,7 @@ a{
         position: static;
         width: auto;
         margin: right 20px;
-        background: none;
+        background: rgb(7, 16, 95);
     }
     .nav-menu a{
         display: inline-block;
@@ -72,8 +72,5 @@ a{
     .nav-menu a:hover{
         text-decoration: underline;
         text-decoration-color: rgb(214, 201, 240);
-    }
-    .hamburger-menu{
-        display: block;
     }
 }
