@@ -2,235 +2,235 @@
     "values": [
         {
             "id": 6003,
-            "name": "Alpine (003) Total",
+            "name": "Alpine",
             "nationalForest": "ELDORADO\nPNF (0053), STANISLAUS\nPNF (0072), TOIYABE PNF\n(0291)",
             "totalPayment": "454,076.26"
         },
         {
             "id": 6005,
-            "name": "Amador (005) Total",
+            "name": "Amador",
             "nationalForest": "ELDORADO\nPNF (0053)",
             "totalPayment": "324,648.11"
         },
         {
             "id": 6007,
-            "name": "Butte (007) Total",
+            "name": "Butte",
             "nationalForest": "LASSEN PNF\n(0057), MENDOCINO\nPNF (0059), PLUMAS PNF\n(0063)",
             "totalPayment": "396,999.56"
         },
         {
             "id": 6009,
-            "name": "Calaveras (009) Total",
+            "name": "Calaveras",
             "nationalForest": "STANISLAUS\nPNF (0072)",
             "totalPayment": "173,714.75"
         },
         {
             "id": 6011,
-            "name": "Colusa (011) Total",
+            "name": "Colusa",
             "nationalForest": "MENDOCINO\nPNF (0059)",
             "totalPayment": "128,578.79"
         },
         {
             "id": 6015,
-            "name": "Del Norte (015) Total",
+            "name": "Del Norte",
             "nationalForest": "SISKIYOU PNF\n(0429), SIX RIVERS\nPNF (0055)",
             "totalPayment": "1,390,353.93"
         },
         {
             "id": 6017,
-            "name": "El Dorado (017) Total",
+            "name": "El Dorado",
             "nationalForest": "ELDORADO\nPNF (0053), ELDORADO\nPNF (0053), TAHOE PNF\n(0073)",
             "totalPayment": "1,895,035.81"
         },
         {
             "id": 6019,
-            "name": "Fresno (019) Total",
+            "name": "Fresno",
             "nationalForest": "INYO PNF\n(0054), SEQUOIA PNF\n(0067), SEQUOIA PNF\n(0067), SIERRA PNF\n(0069), SIERRA PNF\n(0069), SIERRA PNF\n(0069)",
             "totalPayment": "1,290,418.87"
         },
         {
             "id": 6021,
-            "name": "Glenn (021) Total",
+            "name": "Glenn",
             "nationalForest": "MENDOCINO\nPNF (0059)",
             "totalPayment": "336,814.54"
         },
         {
             "id": 6023,
-            "name": "Humboldt (023) Total",
+            "name": "Humboldt",
             "nationalForest": "KLAMATH PNF\n(0056), SIX RIVERS\nPNF (0055), TRINITY PNF\n(0074)",
             "totalPayment": "987,423.22"
         },
         {
             "id": 6027,
-            "name": "Inyo (027) Total",
+            "name": "Inyo",
             "nationalForest": "INYO PNF\n(0054), INYO PNF\n(0054)",
             "totalPayment": "742,093.92"
         },
         {
             "id": 6029,
-            "name": "Kern (029) Total",
+            "name": "Kern",
             "nationalForest": "LOS PADRES\nPNF (0058), SEQUOIA PNF\n(0067)",
             "totalPayment": "220,824.73"
         },
         {
             "id": 6033,
-            "name": "Lake (033) Total",
+            "name": "Lake",
             "nationalForest": "MENDOCINO\nPNF (0059)",
             "totalPayment": "465,316.51"
         },
         {
             "id": 6035,
-            "name": "Lassen (035) Total",
+            "name": "Lassen",
             "nationalForest": "LASSEN PNF\n(0057), MODOC PNF\n(0061), PLUMAS PNF\n(0063), TOIYABE PNF\n(0291)",
             "totalPayment": "1,817,630.33"
         },
         {
             "id": 6037,
-            "name": "Los Angeles (037) Total",
+            "name": "Los Angeles",
             "nationalForest": "ANGELES PNF\n(0051), ANGELES PNF\n(0051), ANGELES PNF\n(0051), ANGELES PNF\n(0051), ANGELES PNF\n(0051), ANGELES PNF\n(0051), LOS PADRES\nPNF (0058)",
             "totalPayment": "1,474,796.48"
         },
         {
             "id": 6039,
-            "name": "Madera (039) Total",
+            "name": "Madera",
             "nationalForest": "INYO PNF\n(0054), SIERRA PNF\n(0069)",
             "totalPayment": "522,253.96"
         },
         {
             "id": 6043,
-            "name": "Mariposa (043) Total",
+            "name": "Mariposa",
             "nationalForest": "SIERRA PNF\n(0069), STANISLAUS\nPNF (0072)",
             "totalPayment": "321,020.16"
         },
         {
             "id": 6045,
-            "name": "Mendocino (045) Total",
+            "name": "Mendocino",
             "nationalForest": "MENDOCINO\nPNF (0059)",
             "totalPayment": "324,396.29"
         },
         {
             "id": 6049,
-            "name": "Modoc (049) Total",
+            "name": "Modoc",
             "nationalForest": "MODOC PNF\n(0061), SHASTA PNF\n(0068)",
             "totalPayment": "1,567,939.92"
         },
         {
             "id": 6051,
-            "name": "Mono (051) Total",
+            "name": "Mono",
             "nationalForest": "INYO PNF\n(0054), TOIYABE PNF\n(0291)",
             "totalPayment": "790,477.27"
         },
         {
             "id": 6053,
-            "name": "Monterey (053) Total",
+            "name": "Monterey",
             "nationalForest": "LOS PADRES\nPNF (0058), LOS PADRES\nPNF (0058)",
             "totalPayment": "53,903.15"
         },
         {
             "id": 6057,
-            "name": "Nevada (057) Total",
+            "name": "Nevada",
             "nationalForest": "TAHOE PNF\n(0073), TOIYABE PNF\n(0291)",
             "totalPayment": "392,885.57"
         },
         {
             "id": 6059,
-            "name": "Orange (059) Total",
+            "name": "Orange",
             "nationalForest": "CLEVELAND\nPNF (0052), CLEVELAND\nPNF (0052)",
             "totalPayment": "64,579.40"
         },
         {
             "id": 6061,
-            "name": "Placer (061) Total",
+            "name": "Placer",
             "nationalForest": "ELDORADO\nPNF (0053), TAHOE PNF\n(0073)",
             "totalPayment": "730,362.21"
         },
         {
             "id": 6063,
-            "name": "Plumas (063) Total",
+            "name": "Plumas",
             "nationalForest": "LASSEN PNF\n(0057), PLUMAS PNF\n(0063), TAHOE PNF\n(0073)",
             "totalPayment": "3,403,731.32"
         },
         {
             "id": 6065,
-            "name": "Riverside (065) Total",
+            "name": "Riverside",
             "nationalForest": "CLEVELAND\nPNF (0052), CLEVELAND\nPNF (0052), CLEVELAND\nPNF (0052), SAN\nBERNARDINO\nPNF (0066), SAN\nBERNARDINO\nPNF (0066), SAN\nBERNARDINO\nPNF (0066)",
             "totalPayment": "499,138.92"
         },
         {
             "id": 6083,
-            "name": "S.Barbara (083) Total",
+            "name": "S.Barbara",
             "nationalForest": "LOS PADRES\nPNF (0058)",
             "totalPayment": "108,290.66"
         },
         {
             "id": 6071,
-            "name": "S.Bernardino (071) Total",
+            "name": "S.Bernardino",
             "nationalForest": "ANGELES PNF\n(0051), SAN\nBERNARDINO\nPNF (0066), SAN\nBERNARDINO\nPNF (0066), SAN\nBERNARDINO\nPNF (0066)",
             "totalPayment": "874,198.92"
         },
         {
             "id": 6079,
-            "name": "S.Lu.Obispo (079) Total",
+            "name": "S.Lu.Obispo",
             "nationalForest": "LOS PADRES\nPNF (0058), LOS PADRES\nPNF (0058)",
             "totalPayment": "32,770.23"
         },
         {
             "id": 6073,
-            "name": "San Diego (073) Total",
+            "name": "San Diego",
             "nationalForest": "CLEVELAND\nPNF (0052), CLEVELAND\nPNF (0052)",
             "totalPayment": "341,389.47"
         },
         {
             "id": 6089,
-            "name": "Shasta (089) Total",
+            "name": "Shasta",
             "nationalForest": "LASSEN PNF\n(0057), SHASTA PNF\n(0068), TRINITY PNF\n(0074)",
             "totalPayment": "1,881,881.31"
         },
         {
             "id": 6091,
-            "name": "Sierra (091) Total",
+            "name": "Sierra ",
             "nationalForest": "PLUMAS PNF\n(0063), TAHOE PNF\n(0073), TOIYABE PNF\n(0291)",
             "totalPayment": "866,529.29"
         },
         {
             "id": 6093,
-            "name": "Siskiyou (093) Total",
+            "name": "Siskiyou",
             "nationalForest": "KLAMATH PNF\n(0056), MODOC PNF\n(0061), ROGUE RIVER\nPNF (0428), SHASTA PNF\n(0068), SIX RIVERS\nPNF (0055)",
             "totalPayment": "4,347,077.10"
         },
         {
             "id": 6103,
-            "name": "Tehama (103) Total",
+            "name": "Tehama",
             "nationalForest": "LASSEN PNF\n(0057), MENDOCINO\nPNF (0059), TRINITY PNF\n(0074)",
             "totalPayment": "1,122,993.28"
         },
         {
             "id": 6105,
-            "name": "Trinity (105) Total",
+            "name": "Trinity",
             "nationalForest": "MENDOCINO\nPNF (0059), SHASTA PNF\n(0068), SIX RIVERS\nPNF (0055), TRINITY PNF\n(0074)",
             "totalPayment": "3,545,813.56"
         },
         {
             "id": 6107,
-            "name": "Tulare (107) Total",
+            "name": "Tulare",
             "nationalForest": "INYO PNF\n(0054), SEQUOIA PNF\n(0067)",
             "totalPayment": "509,639.38"
         },
         {
             "id": 6109,
-            "name": "Tuolumne (109) Total",
+            "name": "Tuolumne",
             "nationalForest": "INYO PNF\n(0054), STANISLAUS\nPNF (0072)",
             "totalPayment": "1,136,645.06"
         },
         {
             "id": 6111,
-            "name": "Ventura (111) Total",
+            "name": "Ventura",
             "nationalForest": "ANGELES PNF\n(0051), LOS PADRES\nPNF (0058), LOS PADRES\nPNF (0058)",
             "totalPayment": "100,096.04"
         },
         {
             "id": 6115,
-            "name": "Yuba (115) Total",
+            "name": "Yuba",
             "nationalForest": "PLUMAS PNF\n(0063), TAHOE PNF\n(0073)",
             "totalPayment": "121,803.06"
         }
