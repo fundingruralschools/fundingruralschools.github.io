@@ -54,7 +54,7 @@ a{
     .navbar{
         justify-content: space-around;
     }
-    
+
     }
     .nav-menu{
         display: block;
@@ -71,4 +71,4 @@ a{
         text-decoration: underline;
         text-decoration-color: rgb(214, 201, 240);
     }
-}
+
