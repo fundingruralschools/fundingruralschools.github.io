@@ -1,18 +1,130 @@
 .title{
-    display: block;
-    margin-top: 12rem;
+    margin-top: 14rem;
     margin-left: 6rem;
+    float: left;
     text-align: start;
     color: rgb(255, 255, 255);
     font-size: 2rem;
-    float: left;
     width: 40%;
 }
 
 .mapimg{
-    size: 150px 150px;
-    float: right;
-    width: 40%;
-    padding: 10px;
-    margin-top: 9rem;
+    overflow: auto;
+    margin-top: 12rem;
+    margin-left: 3rem;
+}
+
+.whatissecureruralschools{
+    margin-top: 12rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    text-align: start;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+}
+
+.secureruralschoolsexp{
+    margin-top: 3rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    text-align: start;
+    color: rgb(214, 201, 240);
+    font-size: 1.25rem;
+}
+
+.numberboxes {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: 4rem;
+    margin-top: 5rem;
+    color: rgb(255, 255, 255);
+}
+
+.numberboxesexp {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    color: rgb(255, 255, 255);
+}
+
+
+.siskiyoucountytitle {
+    margin-top: 10rem;
+    margin-left: 6rem;
+    text-align: start;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+}
+
+.siskiyoucounty {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.siskiyouimage{
+    width: 500px;
+    height: auto;
+    margin-left: 6rem;
+}
+
+.siskiyoutext {
+    font-size: 2rem;
+    color: aliceblue;
+    margin-left: 10rem;
+}
+
+.trinitycountytitle {
+    margin-top: 3rem;
+    margin-left: 6rem;
+    text-align: start;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+}
+
+.trinitycounty {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.trinityimage{
+    width: 500px;
+    height: auto;
+    margin-left: 6rem;
+}
+
+.trinitytext {
+    font-size: 2rem;
+    color: aliceblue;
+    margin-left: 10rem;
+}
+
+.plumascountytitle {
+    margin-top: 3rem;
+    margin-left: 6rem;
+    text-align: start;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+}
+
+.plumascounty {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.plumasimage{
+    width: 500px;
+    height: auto;
+    margin-left: 6rem;
+}
+
+.plumastext{
+    font-size: 2rem;
+    color: aliceblue;
+    margin-left: 10rem;
 }
