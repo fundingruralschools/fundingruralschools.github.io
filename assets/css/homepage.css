@@ -14,8 +14,12 @@
     margin-left: 3rem;
 }
 
+#program {
+    color: rgb(7, 16, 95);
+}
+
 .whatissecureruralschools{
-    margin-top: 12rem;
+    margin-top: 8rem;
     margin-left: 6rem;
     margin-right: 6rem;
     text-align: start;
@@ -50,12 +54,24 @@
     color: rgb(255, 255, 255);
 }
 
+#casestudies {
+    color: rgb(7, 16, 95);
+}
 
-.siskiyoucountytitle {
-    margin-top: 10rem;
+.casestudiestitle {
+    margin-top: 5rem;
     margin-left: 6rem;
+    margin-right: 6rem;
     text-align: start;
     color: rgb(255, 255, 255);
+    font-size: 5rem;
+}
+
+.siskiyoucountytitle {
+    margin-top: 3rem;
+    margin-left: 6rem;
+    text-align: start;
+    color: rgb(214, 201, 240);
     font-size: 2rem;
 }
 
@@ -81,7 +97,7 @@
     margin-top: 3rem;
     margin-left: 6rem;
     text-align: start;
-    color: rgb(255, 255, 255);
+    color: rgb(214, 201, 240);
     font-size: 2rem;
 }
 
@@ -107,7 +123,7 @@
     margin-top: 3rem;
     margin-left: 6rem;
     text-align: start;
-    color: rgb(255, 255, 255);
+    color: rgb(214, 201, 240);
     font-size: 2rem;
 }
 
@@ -128,3 +144,70 @@
     color: aliceblue;
     margin-left: 10rem;
 }
+
+#siteinfo {
+    color: rgb(7, 16, 95);
+}
+
+.abouttitle {
+    font-size: 1.5rem;
+    color:rgb(126, 159, 234);
+    margin-top: 3rem;
+    margin-left: 6rem;
+    font-style: italic;
+}
+
+.aboutuscontent{
+    margin-top: 3rem;
+    margin-left: 6rem;
+}
+
+.introduction {
+    margin-left: 6rem;
+    margin-right: 6rem;
+    color: rgb(126, 159, 234);
+    font-size: 1.5rem;
+}
+
+.leeaboutus{
+    display: inline-flex;
+}
+
+.leeprofpic{
+    margin-top: 3rem;
+    border-radius: 50%;
+    width: 12rem;
+}
+
+.leebio{
+    position:relative;
+    text-align: start;
+    margin-top: 7rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    color: rgb(126, 159, 234);
+    font-size: 1.5rem;
+}
+.charlieaboutus{
+    display: inline-flex;
+}
+
+.charliebio{
+    display: block;
+    text-align: start;
+    margin-top: 3rem;
+    margin-right: 12rem;
+    color: rgb(126, 159, 234);
+    font-size: 1.5rem;
+}
+
+.charlieprofpic{
+    display: block;
+    margin-top: 3rem;
+    margin-right: 6rem;
+    border-radius: 50%;
+    width: 12rem;
+    height: 12rem;
+}
+
+
