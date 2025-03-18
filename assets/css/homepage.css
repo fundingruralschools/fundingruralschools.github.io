@@ -1,21 +1,213 @@
-.problem-purpcont{
-    padding-top: 5rem
+.title{
+    margin-top: 14rem;
+    margin-left: 6rem;
+    float: left;
+    text-align: start;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    width: 40%;
 }
 
-.placeholdermap{
-    float:left;
-    width: 50%;
-    padding-left: 3rem;
-    padding-right: 5rem;
+.mapimg{
+    overflow: auto;
+    margin-top: 12rem;
+    margin-left: 3rem;
 }
 
-.pagetitle{
-    display: block;
-    block-size: 35rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+#program {
+    color: rgb(7, 16, 95);
+}
+
+.whatissecureruralschools{
+    margin-top: 8rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    text-align: start;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+}
+
+.secureruralschoolsexp{
+    margin-top: 3rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    text-align: start;
+    color: rgb(214, 201, 240);
+    font-size: 1.25rem;
+}
+
+.numberboxes {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: 4rem;
+    margin-top: 5rem;
+    color: rgb(255, 255, 255);
+}
+
+.numberboxesexp {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
     font-size: 1.5rem;
-    font-weight: lighter;
-    padding-top: 5rem;
-    padding-right: 4rem;
-    text-align:center;
+    margin-top: 1rem;
+    color: rgb(255, 255, 255);
 }
+
+#casestudies {
+    color: rgb(7, 16, 95);
+}
+
+.casestudiestitle {
+    margin-top: 5rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    text-align: start;
+    color: rgb(255, 255, 255);
+    font-size: 5rem;
+}
+
+.siskiyoucountytitle {
+    margin-top: 3rem;
+    margin-left: 6rem;
+    text-align: start;
+    color: rgb(214, 201, 240);
+    font-size: 2rem;
+}
+
+.siskiyoucounty {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.siskiyouimage{
+    width: 500px;
+    height: auto;
+    margin-left: 6rem;
+}
+
+.siskiyoutext {
+    font-size: 2rem;
+    color: aliceblue;
+    margin-left: 10rem;
+}
+
+.trinitycountytitle {
+    margin-top: 3rem;
+    margin-left: 6rem;
+    text-align: start;
+    color: rgb(214, 201, 240);
+    font-size: 2rem;
+}
+
+.trinitycounty {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.trinityimage{
+    width: 500px;
+    height: auto;
+    margin-left: 6rem;
+}
+
+.trinitytext {
+    font-size: 2rem;
+    color: aliceblue;
+    margin-left: 10rem;
+}
+
+.plumascountytitle {
+    margin-top: 3rem;
+    margin-left: 6rem;
+    text-align: start;
+    color: rgb(214, 201, 240);
+    font-size: 2rem;
+}
+
+.plumascounty {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.plumasimage{
+    width: 500px;
+    height: auto;
+    margin-left: 6rem;
+}
+
+.plumastext{
+    font-size: 2rem;
+    color: aliceblue;
+    margin-left: 10rem;
+}
+
+#siteinfo {
+    color: rgb(7, 16, 95);
+}
+
+.abouttitle {
+    font-size: 1.5rem;
+    color:rgb(126, 159, 234);
+    margin-top: 3rem;
+    margin-left: 6rem;
+    font-style: italic;
+}
+
+.aboutuscontent{
+    margin-top: 3rem;
+    margin-left: 6rem;
+}
+
+.introduction {
+    margin-left: 6rem;
+    margin-right: 6rem;
+    color: rgb(126, 159, 234);
+    font-size: 1.5rem;
+}
+
+.leeaboutus{
+    display: inline-flex;
+}
+
+.leeprofpic{
+    margin-top: 3rem;
+    border-radius: 50%;
+    width: 12rem;
+}
+
+.leebio{
+    position:relative;
+    text-align: start;
+    margin-top: 7rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    color: rgb(126, 159, 234);
+    font-size: 1.5rem;
+}
+.charlieaboutus{
+    display: inline-flex;
+}
+
+.charliebio{
+    display: block;
+    text-align: start;
+    margin-top: 3rem;
+    margin-right: 12rem;
+    color: rgb(126, 159, 234);
+    font-size: 1.5rem;
+}
+
+.charlieprofpic{
+    display: block;
+    margin-top: 3rem;
+    margin-right: 6rem;
+    border-radius: 50%;
+    width: 12rem;
+    height: 12rem;
+}
+
+

@@ -9,44 +9,180 @@
     <meta name="keywords" content="rural, education, funding">
     <meta name="author" content="Charlie and Lee">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style_draft.css">
+    <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/stylesheet.css">
     <link rel="stylesheet" href="assets/css/homepage.css">
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0"></script>
 </head>
 
 <body>
     <header>
         <nav class="navbar">
             <div class="website-name">
-                <h1>Secure Rural Schools</h1>
+                <h1>funding rural schools.</h1>
             </div>
             <div class="nav-menu hide">
-                <a href="homepage.html">Home</a>
-                <a href="map.html">Map</a>
-                <a href="our_data.html">Our Data</a>
-                <a href="about.html">About</a>
+                <a href="#program">program</a>
+                <a href="#casestudies">case studies</a>
+                <a href="#siteinfo">site info</a>
             </div>
         </nav>
     </header>
-    <div class="problem-purpcont">
-        <div class="placeholdermap">
-            <a>
-                <img src="assets/img/placeholdermap.png" style="height: 30rem;">
-            </a>
+    <div class="title">
+        <h1>Almost $40 million of funding went to rural California schools in 2024.</h1>
+        <br>
+        <br>
+        <h2>How much did your county get?</h2>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div id="map">
+        <a href="map.html"></a>
+    </div>
+    <div class="whatissecureruralschools">
+        <p id="program">program</p>
+        <br>
+        <br>
+        <h1>What is the Secure Rural Schools Program?</h1>
+    <div class="secureruralschoolsexp">
+        <h2>Following the creation of the United States Forest Service in 1905,
+        the Act of May 23, 1908--today, known as the Secure Rural Schools and Community Self Determination Act was created.
+        This act works to help compensate counties with growing amounts of forest service land for the potential tax
+        money which they were losing by not building on the acres of protected land. Payments to counties are broken into
+        three categories: Title I for roads and schools, Title II for projects on federal lands, and Title III for county projects.</h2>
+        <br>
+        <h2>To learn more about the origins of the Secure Rural Schools Program, click 
+        <a href="https://www.fs.usda.gov/working-with-us/secure-rural-schools" style="text-decoration: underline;">here</a> to visit the National Forest Service website. 
+    </div>
+    <div class="numberboxes">
+        <div class="countynumber">
+            39
         </div>
-        <div class="pagetitle">
-            <h1>Rural schools scour for funding</h1>
-            <p style="font-size: 1rem;padding-top: 0.5rem;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Sed bibendum sed nisl eget rhoncus. Curabitur a odio sit amet 
-                sapien dignissim suscipit in et nulla. Donec rhoncus fringilla turpis, 
-                suscipit elementum enim hendrerit quis. Cras enim velit, tempus eu 
-                dapibus sit amet, elementum et libero. Fusce sit amet tempor lacus. 
-                Quisque sollicitudin turpis non magna euismod mattis. 
-                Curabitur urna erat, malesuada eget volutpat eget, pretium ut lectus. 
-                Morbi quis blandit ipsum. Donec venenatis condimentum pharetra. 
-                Phasellus vulputate cursus orci eu pulvinar. 
-            </p>
+        <div class="populationnumber">
+            27,172,960
+        </div>
+        <div class="dollaramount">
+            $40M
         </div>
     </div>
+    <div class="numberboxesexp">
+        <div class="countynumberexp">
+            California counties recieving funding
+        </div>
+        <div class="populationnumber">
+            Total number of people reached by funding
+        </div>
+        <div class="dollaramount">
+            Around the total dollar amount dispersed
+        </div>
+    </div>
+
+    <div id="casestudies">
+        <p>case studies id</p>
+        <br>
+        <br>
+        <h1 class="casestudiestitle">Case studies</h1>
+    </div> 
+    <div class="secureruralschoolsexp">
+        <h2>Case studies are reported from the year 2024. Looking at the three counties that received the most funding from the Secure Rural Schools program, 
+            we found that they all have a lower household income, significantly below California’s state average of $96,334. Lower incomes mean families may 
+            struggle with educational costs, and schools in these counties rely heavily on federal programs like Secure Rural Schools to fund essential services.  </h2>
+
+    <div class="siskiyoucountytitle" id="case studies">
+        <h1>Siskiyou County</h1>
+    </div>
+   <div class="siskiyoucounty">
+        <img src="assets/img/siskiyou.png" class="siskiyouimage">
+        <ul class="siskiyoutext"> 
+            <li> <strong>$4.3 million</strong>, the largest amount in all of California </li>
+            <br>
+            <li>Median household income of <strong>$54,441</strong> </li>
+            <br>
+             <li> <strong>14.4% of residents live in poverty</strong> highlighting economic challenges that impact local schools.</li>
+             <br>
+            (Source:<a href="https://www.census.gov/quickfacts/fact/table/siskiyoucountycalifornia#" style="text-decoration: underline" > United States Census Bureau</a>) </ul>
+   </div>
+   <div class="trinitycountytitle">
+    <h1>Trinity County</h1>
+    </div>
+    <div class="trinitycounty">
+
+        <ul class="trinitytext"> 
+            <li> <strong>$3.5 million</strong>, the largest amount in all of California </li>
+            <br>
+            <li>Median household income of <strong>$53,498</strong> </li>
+            <br>
+             <li> <strong>12.2% of residents live in poverty</strong> highlighting economic challenges that impact local schools.</li>
+             <br>
+            (Source:<a href="https://www.census.gov/quickfacts/fact/table/trinitycountycalifornia/PST045224 " style="text-decoration: underline" > United States Census Bureau</a>) </ul>
+            <img src="assets/img/trinity.png" class="trinityimage">
+   </div>
+   <div class="plumascountytitle">
+    <h1>Plumas County</h1>
+    </div>
+   <div class="plumascounty">
+    <img src="assets/img/plumas.png" class="plumasimage">
+    <ul class="plumastext"> 
+        <li> <strong>$3.4 million</strong>, the largest amount in all of California </li>
+        <br>
+        <li>Median household income of <strong>$64,946</strong> </li>
+        <br>
+         <li> <strong>13.1% of residents live in poverty</strong> highlighting economic challenges that impact local schools.</li>
+         <br>
+        (Source:<a href="https://www.census.gov/quickfacts/fact/table/plumascountycalifornia/PST045224" style="text-decoration: underline" > United States Census Bureau</a>) </ul>
+    </div>
+
+    <div class="abouttitle">
+        <p id="siteinfo">siteinfo</p>
+        <br>
+        <br>
+        <br>
+        <h1>website info.</h1>
+    </div>
+    <div class="aboutuscontent">
+        <div class="introduction">
+            <p>This website was made as a project for the class "Building News Applications",
+                taught by Stanford University Lorry I. Lokey Visiting Professor in Professional Journalism
+                Serdar Tumgoren. Website creators Lee Xiong '25 and Charlotte Burks '27 settled on reporting
+                on the Secure Rural Schools Program through a shared interest in public education reporting,
+                and built this website over ten weeks, starting with no web design experience. Xiong focused
+                primarily on data analysis, and designed the data visualization for the site, while Burks 
+                focused on front-end development.
+            </p>
+        </div>
+        <div class="leeaboutus">
+            <img src="assets/img/leeprofpic.png" class="leeprofpic">
+            <p class="leebio">Hi there! I'm Lee, a senior majoring in Data Science at Stanford. 
+                I'm passionate about using data to solve social issues, as it holds so much valuable insights. 
+                This is my first class focused on web design, and I'm really excited to share this journey with all of you!</p>
+        </div>
+        <div class="charlieaboutus">
+            <p class="charliebio">Hi! I'm Charlie, a sophomore majoring in Classics at Stanford.
+                Aside from my interests in ancient history and language, I hope to pursue a career in journalism. My past 
+                reporting has dealt with art and education, and I am currently the Stanford Daily news section's beat reporter 
+                covering graduate and international students. This website is my first experiencing in coding, and 
+                I've spent the past ten weeks learning HTML, CSS, and Javascript for it.
+                <br>
+                <br>
+                Github: <a href="https://github.com/chburks27" style="text-decoration: underline;">@chburks27</a>
+                <br>
+                <br>
+                Instagram: <a href="https://www.instagram.com/charlotteburksvil/" style="text-decoration: underline;">@charlotteburksvil</a>
+                <br>
+                <br>
+                Linkedin: <a href="https://www.linkedin.com/in/charlotte-burks-6b9780205" style="text-decoration: underline;">Charlotte Burks</a>
+            </p>
+            <img src="assets/img/charlieprof pic.png" class="charlieprofpic">
+        </div>
+    </div>
+    <script src="assets/js/map.js"></script>
 </body>
 
 </html>
