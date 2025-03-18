@@ -1,4 +1,4 @@
-# bna-team-meme
+#Funding Rural Schools
 Repository for Building News Applications, Winter 2025
 website url: https://fundingruralschools.github.io/
 
