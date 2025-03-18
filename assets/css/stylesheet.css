@@ -22,11 +22,12 @@ a{
     justify-content: space-evenly;
     align-items: center;
     padding-top: 2.5rem;
-    position: fixed;
+    /* position: fixed; */
     top: 0;
 }
 
 .website-name{
+    margin-top: 5rem;
     text-align: left;
     font-size: 2.5rem;
     margin-left: 2rem;
@@ -43,6 +44,8 @@ a{
     display: block;
     text-align: justify;
     font-size: 1.75rem;
+    white-space: nowrap;
+    overflow-x: hidden;
 }
 
 .hide{
@@ -62,6 +65,7 @@ a{
         width: auto;
         margin: right 20px;
         background: rgb(7, 16, 95);
+        display: flex;
     }
     .nav-menu a{
         display: inline-block;
