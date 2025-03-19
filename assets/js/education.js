@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     var spec = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "width": 150,  
+        "width": 100,  
         "height": 300,
         "title": {
             "text": "Education Rates (At least Bachelor's Degree)",
