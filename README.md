@@ -5,7 +5,7 @@ Website url: https://fundingruralschools.github.io/
 
 # Overview
 
-This project provides an interactive and visual representation of funding for rural schools in California from the Secure Rural Schools Program. We analyzed counties that recieve most funding from this program through socioeconomic factors like per capita funding, median household income, education levels, and poverty rates, to understand the impact of federal and state funding programs on these communities.
+This project provides an interactive and visual representation of funding for rural schools in California from the Secure Rural Schools Program. We analyzed counties that recieve most funding from this program through socioeconomic factors like per capita funding, median household income, education levels, and poverty rates, to understand the impact of federal funding programs on these communities.
 
 # Data Sources
 
