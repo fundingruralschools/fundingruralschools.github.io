@@ -18,6 +18,10 @@
     color: rgb(7, 16, 95);
 }
 
+.mapcredit {
+    margin-left: 6rem;
+}
+
 .whatissecureruralschools{
     margin-top: 8rem;
     margin-left: 6rem;
@@ -182,9 +186,10 @@
 }
 
 .leeprofpic{
-    margin-top: 3rem;
+    margin-top: 5rem;
     border-radius: 50%;
     width: 12rem;
+    height: 12rem;
 }
 
 .leebio{
